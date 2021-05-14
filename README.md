@@ -1,1 +1,1 @@
-# enviando_email
+# Editar os campos userName, senha e os endereços de destino.
